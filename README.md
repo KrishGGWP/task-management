@@ -106,7 +106,6 @@ task-management/
 - **University:** VIT Bhopal University
 - **Program:** B.Tech Computer Science and Engineering (Educational Technology)
 - **Email:** krish.23bet10033@vitbhopal.ac.in
-- **GitHub:** https://github.com/<YOUR_GITHUB_USERNAME>
 
 ---
 
